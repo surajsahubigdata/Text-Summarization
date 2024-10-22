@@ -25,6 +25,33 @@ To run this project locally, follow the below steps:
 + **Clone the repository**
 Inline `code`
 
-Indented code
+
     git clone https://github.com/yourusername/langchain-summary-app.git
     cd langchain-summary-app
+
++ **Create a virtual environment**
+Inline `code`
+    conda create -p venv python==3.10 -y 
+
++ **Install the required dependencies**
+Inline `code`
+    pip install -r requirements.txt 
+
++ **Run the app**
+Inline `code`
+    streamlit run app.py 
+
+## 🚀 Usage
++ Open the app in your browser at http://localhost:XXXX.
++ Enter your Groq API Key in the sidebar.
++ Input a YouTube URL or a website URL to summarize.
++ Click on Summarize the Content to get the summary.
+
+## 📂 File Structure
+Inline `code`
+    |-- app.py             # The main application code
+    |-- requirements.txt   # Required dependencies
+    |-- README.md          # Documentation
+
+
+
