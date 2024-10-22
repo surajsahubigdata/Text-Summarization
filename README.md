@@ -62,6 +62,7 @@ Inline `code`
 
 ## User Interface
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/user-interface-1?raw=true)
+![alt text](user-interface-1-1.PNG)
 
 
+![alt text](user-interface-2-1.PNG)
