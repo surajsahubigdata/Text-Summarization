@@ -19,3 +19,12 @@ This Streamlit application leverages LangChain and Groq's LLM API to summarize c
 + The URL is validated, and the corresponding content is fetched using either YoutubeLoader or UnstructuredURLLoader.
 + The content is then summarized using a pre-defined prompt template via LangChain's summarization chain.
 + The result is displayed in the app.
+
+## 🔧 Setup and Installation
+To run this project locally, follow the below steps:
++ **Clone the repository**
+Inline `code`
+
+Indented code
+    git clone https://github.com/yourusername/langchain-summary-app.git
+    cd langchain-summary-app
