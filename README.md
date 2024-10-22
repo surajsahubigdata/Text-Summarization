@@ -57,8 +57,11 @@ Inline `code`
     |-- app.py             # The main application code
 
     |-- requirements.txt   # Required dependencies
-    
+
     |-- README.md          # Documentation
 
+## User Interface
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/user-interface-1?raw=true)
 
 
