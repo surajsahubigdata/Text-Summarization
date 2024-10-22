@@ -46,7 +46,7 @@ Inline `code`
     streamlit run app.py 
 
 ## 🚀 Usage
-+ Open the app in your browser at http://localhost:XXXX.
++ Open the app in your browser at http://localhost:8501.
 + Enter your Groq API Key in the sidebar.
 + Input a YouTube URL or a website URL to summarize.
 + Click on Summarize the Content to get the summary.
