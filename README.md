@@ -8,11 +8,11 @@ This Streamlit application leverages LangChain and Groq's LLM API to summarize c
 + Streamlit-based UI for ease of use.
 
 ## 🧰 Technologies Used
-+ ** LangChain **: Framework for building applications with LLMs.
-+ ** Groq LLM **: Chat-based LLM for generating summaries.
-+ ** Streamlit **: Web app framework for the user interface.
-+ ** Python Validators **: For URL validation.
-+ ** YoutubeLoader & UnstructuredURLLoader **: For loading content from YouTube videos or websites.
++ **LangChain**: Framework for building applications with LLMs.
++ **Groq LLM**: Chat-based LLM for generating summaries.
++ **Streamlit**: Web app framework for the user interface.
++ **Python Validators**: For URL validation.
++ **YoutubeLoader & UnstructuredURLLoader**: For loading content from YouTube videos or websites.
 
 ## 📑 How It Works
 + The user provides a Groq API key and enters a valid YouTube or website URL.
